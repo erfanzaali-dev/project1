@@ -2,7 +2,7 @@
 
 **طراحی سایت خودروی لاماری**
 
-![viewfinal](https://github.com/user-attachments/assets/13e4b5fa-6a61-4cf1-a6aa-1b5e62a4a8c0)
+![viewfinal]<img width="1920" height="4039" alt="Image" src="https://github.com/user-attachments/assets/cef9d5ad-3880-47e1-afdf-f9c756cbb819" />
 
 - [Demo Project](https://erfanzaali-dev.github.io/project1-lamari/)
 
