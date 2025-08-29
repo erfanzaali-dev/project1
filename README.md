@@ -4,7 +4,7 @@
 
 ![Image](https://github.com/user-attachments/assets/c3e6db17-f55f-4c71-a023-bdff8ef0eadd)
 
-- [Demo Project]https://erfanzaali-dev.github.io/project1-lamari/
+- [Demo Project](https://erfanzaali-dev.github.io/project1-lamari/)
 
 
 - Developed by erfan zaali
