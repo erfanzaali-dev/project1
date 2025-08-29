@@ -3,7 +3,6 @@
 **طراحی سایت خودروی لاماری**
 
 
-- [Demo Project](https://erfanzaali-dev.github.io/project1/)
 
 - Developed by erfan zaali
 
